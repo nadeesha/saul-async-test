@@ -1,0 +1,4 @@
+{
+    "fileGlob": "sum.js",
+    "customEnginesDir": "./custom-engines/"
+}
